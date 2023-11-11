@@ -1,0 +1,2 @@
+This is Temi's file in git
+Git is so cool
